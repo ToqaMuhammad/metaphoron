@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1088253252991",
+    "project_id": "metaphoron-4f3c4",
+    "storage_bucket": "metaphoron-4f3c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088253252991:android:a38fe06d42bb2403a9b64a",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088253252991-9ncc8d7r0chi8ec3f5lmtd605ia5kes2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJA4HyoH1rJmliO7JuVHdr7QXZnrxlOt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088253252991-9ncc8d7r0chi8ec3f5lmtd605ia5kes2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
